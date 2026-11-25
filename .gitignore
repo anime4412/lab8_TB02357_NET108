@@ -1,0 +1,19 @@
+## Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+publish/
+
+## Visual Studio & Secrets
+.vs/
+*.user
+appsettings.Production.json
+
+## OS generated
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+## Archives
+*.zip
